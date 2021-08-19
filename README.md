@@ -2,8 +2,14 @@
 Choosing the right choice
 
 package switchcase;
+
+
 import java.util.Scanner;
+
+
 public class switchcase {
+
+
 public static void main(String [] args) {
 
 int choice;
